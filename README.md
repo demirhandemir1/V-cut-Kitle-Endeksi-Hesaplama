@@ -2,15 +2,14 @@ Live - Netlify
 
 https://patika-bmi-calculator.netlify.app/
 
-# Vucut Kitle Indeksi Hesaplama Araci
+# Body Mass Index Calculator
 
-Vücut kitle indeksi (VKİ), vücut kütlesinin (kg), uzunluğunun metre cinsinden karesine bölünmesiyle hesaplanır. İdeal ağırlık ise ulaşılmak istenen VKİ'nin, boy uzunluğunun karesi ile çarpılmasıyla elde edilir.
+Body mass index (BMI) is calculated by dividing body mass (kg) by the square of the height in meters. Ideal weight is obtained by multiplying the desired BMI by the square of the height.
 
-Vücut Kitle İndeksi (VKİ) = Vücut Ağırlığı (kg.) / Boy uzunluğunun karesi (cm.)
+Body Mass Index (BMI) = Body Weight (kg.) / Height squared (cm.)
 
-İdeal Kilo = Ulaşılmak istenen VKİ değeri * Boy uzunluğunun karesi
+Ideal Weight = BMI value to be achieved * Square of height
 
-Örnek İdeal Kilo = 24 * (1,60 * 1,60)= 61,4 kg
+Example Ideal Weight = 24 * (1.60 * 1.60) = 61.4 kg
 
-Ben vücut yüzey alanını bu formülle hesaplıyorum: BSA = (ağırlığın0.425 x boy0.725) x 0.007184
-
+I calculate body surface area with this formula: BSA = (weight 0.425 x height 0.725) x 0.007184
