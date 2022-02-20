@@ -1,1 +1,3 @@
-# V-cut-Kitle-Endeksi-Hesaplama
+Live - Netlify 
+
+https://patika-bmi-calculator.netlify.app/
