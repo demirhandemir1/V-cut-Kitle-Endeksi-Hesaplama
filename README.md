@@ -14,4 +14,3 @@ Vücut Kitle İndeksi (VKİ) = Vücut Ağırlığı (kg.) / Boy uzunluğunun kar
 
 Ben vücut yüzey alanını bu formülle hesaplıyorum: BSA = (ağırlığın0.425 x boy0.725) x 0.007184
 
-Gokhan Yavas -- gokhanyavas.com
